@@ -1,14 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sirfischer&count_private=true&show_icons=true&hide_border=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirfischer&layout=compact&theme=dark&hide_border=true" />
-</a>
-
-[![wakatime](https://wakatime.com/badge/user/c9da7794-f53e-4d0b-9bda-c8c21e309587.svg)](https://wakatime.com/@c9da7794-f53e-4d0b-9bda-c8c21e309587)
-
 <!--
-**SirFischer/SirFischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Matiaz/Mathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
